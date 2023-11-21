@@ -26,7 +26,7 @@ Függvények:
    
    __init__(self, nev, kor, szemelyazonosito=None): Az osztály konstruktora.
    
-  get_info(self): A Szemely objektum adatait visszaadó függvény.
+   get_info(self): A Szemely objektum adatait visszaadó függvény.
   
 3. RegisztraciosRendszer osztály:
    
