@@ -1,6 +1,8 @@
 # szkript_L03
 Projektfeladat:
+
 Gálné Bengő Evelin
+
 Az elkészített Python program egy regisztrációs rendszert valósít meg egy grafikus felhasználói felületen, amelyet a Tkinter modullal készített GUI segítségével jelenít meg. A program lehetővé teszi személyek regisztrációját, az általuk megadott név és életkor alapján. Az alkalmazás lehetőséget biztosít a regisztrált személyek megtekintésére, adataik mentésére fájlba, valamint a fájlból történő betöltésre.
 
 Modulok:
