@@ -19,14 +19,17 @@ Modulok:
 Függvények:
 
 1. generate_random_id:
+   
    Egy függvény, amely egy véletlenszerű azonosítót generál.
    
-3. Szemely osztály:
+2. Szemely osztály:
+   
    __init__(self, nev, kor, szemelyazonosito=None): Az osztály konstruktora.
    
   get_info(self): A Szemely objektum adatait visszaadó függvény.
   
-5. RegisztraciosRendszer osztály:
+3. RegisztraciosRendszer osztály:
+   
    __init__(self): Az osztály konstruktora.
    
    szemely_regisztralasa(self, nev, kor): Új személy hozzáadását végző függvény.
@@ -41,7 +44,8 @@ Függvények:
    
    betoltes_fajlbol(self, fajlnev): A regisztrált személyek adatainak betöltését végző függvény.
    
-7. Alkalmazas osztály:
+4. Alkalmazas osztály:
+   
    __init__(self, master, regisztraciosrendszer): Az osztály konstruktora.
    
    szemely_regisztralasa(self): A regisztrációs gomb lenyomását kezelő függvény.
